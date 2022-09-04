@@ -1,0 +1,10 @@
+Bubi|Bubisa|Zoran|Bukorac|kupac|374892901|Srpsko|0643272852|zoran@email.com|musko
+Teo|Teolema|Teodor|Sakal Franciskovic|kupac|212353486|Srpsko|0661564681|teodor@email.com|musko
+Pavglu|Pavel|Pavle|Glusac|kupac|784561654|Srpsko|0649875635|pavle@email.com|musko
+Laza|Password|Lazar|Pavlovic|prodavac
+Djole|Anime|Mihajlo|Djordjevic|prodavac
+Shone|Makarone|Nenad|Rakovic|menadzer
+maks4|Milan|Sekulić|Sekulić|prodavac
+Majkl|Man240|Mihal|Sabadoš|kupac|465464|Srbija|34546763|maj@gmail.com|musko
+Mis|bla|bla|bla|kupac|bla|bla|bla|bla|bla
+bla|bla|bla|bla|kupac|asf|ag|ag|adg|adg
